@@ -70,7 +70,7 @@ public class Q3_GunIsmiYazdirma {
             case "salı"      :
             case "çarşamba"  :
             case "perşembe"  :
-            case "cuma"      : System.out.println("Girdiğiniz gin haftaiçidir"); break;
+            case "cuma"      : System.out.println("Girdiğiniz gün haftaiçidir"); break;
             case "cumartesi" :
             case "pazar"     : System.out.println("Girdiğiniz gün haftasonudur");break;
             default          : System.out.println("Yanlış giriş yaptınız");
